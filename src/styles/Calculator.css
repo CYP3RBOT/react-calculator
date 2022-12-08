@@ -10,7 +10,6 @@
 .calculator {
   position: relative;
   margin: 0 auto;
-  width: 30rem;
+  width: 25rem;
   height: 40rem;
-  border: 1px white solid;
 }
