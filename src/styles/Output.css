@@ -15,7 +15,7 @@
 .output {
   color: white;
   position: absolute;
-  bottom: 0;
-  right: 0;
-  width: 100%;
+  bottom: 1rem;
+  right: 2%;
+  width: 98%;
 }
